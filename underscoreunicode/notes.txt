@@ -1,0 +1,10 @@
+Cosas a tener en cuenta:
+
+Las animaciones deberian estar categorizadas por [NOMBRE_OBJETO]_[ESTADO]_[FRAME].
+
+Osea que, si quiero un frame donde Dummy este corriendo, teniendo en cuenta que Dummy en el codigo es llamado como "P1", deberia seguir así la nomenclatura:
+P1_RUN_1
+
+MAXIMO 4 frames/animacion.
+
+Tambien tener en cuenta, los sprites solo soportan 4 colores por tile de 8x8, así que se deberia evitar el ir confiado haciendo esto pues.

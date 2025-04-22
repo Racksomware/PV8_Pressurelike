@@ -6,7 +6,8 @@
 ]]--
 
 function Init()
-
+  LoadScript("OBJ_P1")
+  print(P1_Vel_maxH)
 end
 
 --[[
