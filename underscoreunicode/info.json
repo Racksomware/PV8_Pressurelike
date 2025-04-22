@@ -1,0 +1,20 @@
+{
+    "name":"underscoreunicode",
+    "description":"underscoreunicode
+underscoreunicode_team
+
+underscoreunicode_code",
+    "version":"v1.0.18",
+    "ext":".pv8",
+    "gpuChip":"Custom",
+    "cartChip":"PV8",
+    "soundChip":"PV8",
+    "runnerType":"",
+    "buildWin":"false",
+    "buildExtras":"",
+    "buildMac":"false",
+    "buildLinux":"false",
+    "includeLibs":"",
+    "paletteMode":"false",
+    
+}
